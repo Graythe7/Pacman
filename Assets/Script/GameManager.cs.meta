@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 041f6911f3a0a4afd9bf4b11e59c33d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pacman: {instanceID: 0}
+  - pellets: {fileID: 7174428621555424910, guid: c494dc7c687094f6cad3e0260d05c158, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
